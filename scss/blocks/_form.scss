@@ -1,0 +1,58 @@
+
+
+.form__input {
+    height: 50px;
+    padding: 12px;
+    text-align: center;
+    font-size: 14px;
+    background-color: rgba(255,255,255, 0.2);
+    color: $white;
+    transition: background-color 0.2s ease-in;
+
+    &::placeholder{
+        color: $placeholder-color;
+    }
+
+    &:focus{
+           background-color: rgba(255,255,255, 0.25);
+
+    }
+
+}
+
+
+
+
+
+.form__privacy {
+
+  
+font-weight: 400;
+font-size: 13px;
+line-height: 123%;
+max-width: 300px;
+color: $muted;
+
+&--bottom{
+    @include mediaTablet{
+        grid-row: 4 / 5;
+    }
+}
+
+}
+.form__button {
+    height: 50px;
+    padding: 12px;
+   
+font-weight: 700;
+
+line-height: 169%;
+text-align: center;
+background-color: $accent-color;
+transition: background-color 0.2s ease-in;
+
+&:hover{
+    background-color: saturate($accent-color,20%);
+}
+
+}

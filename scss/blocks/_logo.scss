@@ -1,0 +1,22 @@
+.logo {
+  font-family: $font-main;
+  font-weight: 400;
+  font-size: 12px;
+  letter-spacing: 0.12em;
+  color: $white;
+  letter-spacing: 3px;
+
+  svg {
+    fill: $white;
+
+
+  }
+
+ 
+
+
+  &:hover svg{
+    fill: $accent-color;
+
+  }
+}
