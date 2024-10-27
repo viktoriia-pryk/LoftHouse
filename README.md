@@ -12,20 +12,25 @@ You can view the live demo of the landing page here: [Lofthouse Landing Page](ht
 This project uses:
 
 
-🟢 **HTML** for the structure of the site
+✔️ **HTML** for the structure of the site
 
-🟢**SCSS** as the CSS preprocessor, utilizing mixins and variables
+✔️**SCSS** as the CSS preprocessor, utilizing mixins and variables
 
-🟢**CSS Grid** and **Flexbox** for layout
+✔️**CSS Grid** and **Flexbox** for layout
+
 
 ✔️Media queries for responsive design
 
 
-
-🟢**YouTube Lightbox** for displaying YouTube videos
-🟢**phonemask** for masking phone numbers
+✔️Follow the BEM (Block Element Modifier methodology for structuring CSS classes
 
 
-🟢Custom JS scripts for:
-🟢Phone number masking
-🟢YouTube Lightbox video display
+
+✔️YouTube Lightbox for displaying YouTube videos;
+
+
+✔️Phonemask for masking phone numbers;
+
+
+
+
