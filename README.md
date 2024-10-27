@@ -10,6 +10,8 @@ You can view the live demo of the landing page here: [Lofthouse Landing Page](ht
 ## Technologies
 
 This project uses:
+
+
 🟢 **HTML** for the structure of the site
 
 🟢**SCSS** as the CSS preprocessor, utilizing mixins and variables
@@ -18,10 +20,9 @@ This project uses:
 
 ✔️Media queries for responsive design
 
-## Plugins
+
 
 🟢**YouTube Lightbox** for displaying YouTube videos
-
 🟢**phonemask** for masking phone numbers
 
 
